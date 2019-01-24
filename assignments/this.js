@@ -10,7 +10,7 @@
  */
 
 // Principle 1
-"When you use this in a global aspect, it will refer to the window or console";
+("When you use this in a global aspect, it will refer to the window or console");
 // code example for Window Binding
 console.log(this);
 
